@@ -11,11 +11,10 @@ Create GITHUB REPO :
 Analog VLSI CKT Design , Presenter : Prof Santunu Sarangi
 
 1)Basic Unix
-2)Analog Design
-  - sch drawing tools
-3)Digital
-  - Verilog, EDA,synthesis,etc
+2)Analog Design - sch drawing tools
+3)Digital - Verilog, EDA,synthesis,etc
 4)Book reference : Fundamentals of electric circuit, Charles K.Alexander & Matthew N.O Sadiku
+
 
 Fundamental VLSI :Overview of Sand to Silicon
 
