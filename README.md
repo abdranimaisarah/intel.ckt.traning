@@ -80,6 +80,58 @@ What is VLSI?
     --> Gate Oxide Creation --> Gate and Source/Drain Formations --> Contacts and Metalizations --> Passivation --> Metrology.
     
     
-    .......TO BE CONTINUE(EDITTING IN PROGESS)
+    (a) Wafer Formation
+    - wafer cut from boule, cylindrical ingots of single crystal silicon.
+    - some amount of impurities added to the melt to provide the crystal.
+    - A seed crystal is deep into the melt to initiate crystal growth.
+    - Seed gradually withdrawn from the melt and simultaneously rotated.
+    - The seed withdrawal and rotation rates determines the diameter of ingot.
+        <img width="172" alt="image" src="https://user-images.githubusercontent.com/122240906/212214940-d13af078-c3f8-4ea1-8dc3-7fc2f2c47825.png">
+        <img width="415" alt="image" src="https://user-images.githubusercontent.com/122240906/212215077-b5d40c15-8944-4692-9339-b91157748812.png">
+    
+    (b) Photolithography
+       - patterning process.
+       - wafer coated by the photoresist and subjected to selectiv illumination through the photomask.
+       - photomask is constucted with chromium.
+       - used UV light to expose- the photorist.
+       <img width="218" alt="image" src="https://user-images.githubusercontent.com/122240906/212219497-5ec17755-ee07-48a0-85dc-3ebb57cb4a30.png">
+
+    (c) Well and Channel Formation
+    - Nwell : pmos bule in a n-well, nmos place in p substrate.
+    - Pwell : nmos bule in a p-well, pmos place in  n substrate.
+    - Twin well : emergence of nwell process.
+    - Triple well : provide isolation between analog and digital blocks in mixed signal chips. used to isolate high density dynamic memory for logic.
+
+    (d) Silicon Dioxide(Sio2)
+    - Oxidation achived by heating the silicon wavef in oxidizing atmostphere.
+
+    (e) Isolation
+    - to avoid interaction between devices.
+    - form thick oxide by LOCOS process - Local Oxidation of Silicon
+        
+    (f) Gate Oxide
+    - Form gate oxide for transistor. 
+    - gate also consist thin gate layer oxide.
+
+     (g) Gate and Source/Drain Formations.
+     - Grow gate oxide to accommodate gate/drain/source --> deposit polysilicon --> patter polysilicon --> etch exposed gate oxide --> implant pMos/nMOS source&drain region.
+
+     (h) Contact and Metallization
+     - Make contact cut to source/drain/gate according to contact mask.-hole etched in dielectric after source/drain formation.
+     - make from alluminium, copper or tungsten.
+
+     (i) Passivation
+     - Final process is adding a protectiove glass layer.
+     - to prevent ingress of contaminants.
+      
+      (j) Metrology
+      - Measurement process to give feedback to manufacturing process.
+
+ ## Day 3(WW02.3'23)- CMOS Fabrication Process in DSM and UDSM Tech
+    
+
+
+
+
 
  
