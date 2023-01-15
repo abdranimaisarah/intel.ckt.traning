@@ -183,11 +183,7 @@ What is VLSI?
  - Substrate is uniformly doped.
  - All charge is 0 (Interface charge, Trapped charge, Fixed charge, mobile charge, etc..)
  <img width="256" alt="image" src="https://user-images.githubusercontent.com/122240906/212551717-4dd1b5a6-e029-4c2c-aa53-95a7c4d78dc1.png">
- - 4 condition in ideal case :
-   1. (V < 0) - Accumulation
-   2. (V > 0) - Depletion & Weak Inversion
-   3. (V > Vt) - Strong Inversion
-   4. Flat-band and Treshold Voltage
+ - 4 condition in ideal case: 
 
  (1) Accumulation Mode (v<0)
   - Accumulation occurs when voltage applied less than the flatband voltage.
