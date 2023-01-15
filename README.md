@@ -129,9 +129,91 @@ What is VLSI?
 
  ## Day 3(WW02.3'23)- CMOS Fabrication Process in DSM and UDSM Tech
     
-
-
-
-
-
+ ### Submicron CMOS Process
  
+ Disadvantages :
+ - pn junction usage, to isolate transistor becomes impractical as transistor size decrease.
+ - LOCOS disadvantage; bird's beak effect, the surface area loss to this encroachment.
+ - LOCOS advantage; simple flow, high oxide quality due to LOCOS structure thermally grown.
+ <img width="230" alt="image" src="https://user-images.githubusercontent.com/122240906/212546268-fd095a42-b0ae-415b-8110-8f77ff25f676.png">
+ 
+
+  ### Sallow Trench Isolation (STI) Process
+  
+  - Preffered isolation process for deep-submicron process --> No Bird's beak(reduced active to active spacing).
+  - Much suitable for the increase density in small area.
+  - Disadvantages : a lot of process steps.
+  
+  <img width="248" alt="image" src="https://user-images.githubusercontent.com/122240906/212547601-465f2e9a-49bd-49a6-9882-4aa22e381faa.png">
+
+   
+  ### Deep Submicron (DSM) and Ultra Deep Submicron(UDSM) CMOS Technology
+  
+ - Type of resistor in DSM CMOS Technology.
+ <img width="476" alt="image" src="https://user-images.githubusercontent.com/122240906/212549423-199d416a-bb3c-4340-abee-d252582c85ae.png">
+
+ - Type of capacitor in DSM CMOS Technology.
+ <img width="542" alt="image" src="https://user-images.githubusercontent.com/122240906/212549447-1b9c71f8-cc40-4eb4-b3ac-4baca19d7ebe.png">
+
+- DSM Fabrication Process
+
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/122240906/212549198-38427377-ee5b-47b9-86b8-7dcebab5f13e.png">
+ 
+- DSM vs UDSM
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/122240906/212550430-ebb41b06-4d04-464f-b5be-ba36f13f702d.png">
+
+
+ ## Day 4(WW02.5'23)- Metal Oxide Semiconductor(MOS) Structure
+ 
+  ### Metal Oxide Semiconductor(MOS) Device Structure
+  
+ - MOS junction - A capacitor
+                - No current-voltage relationship, on capacitor-voltage relationship.
+
+<img width="157" alt="image" src="https://user-images.githubusercontent.com/122240906/212551398-9b7349ed-0a32-4dcb-99f5-e4b7d3e06128.png">
+
+### Metal Oxide Semiconductor(MOS) Fabrication
+
+- Process to create SiO2 on top of silicon, called Oxidation.
+- Process to deposit poly-silicon on top of SiO2 called Metallization.
+
+### Ideal MOS Junction or Capacitor
+
+ - No charge in the device if V=0
+ - Substrate is uniformly doped.
+ - All charge is 0 (Interface charge, Trapped charge, Fixed charge, mobile charge, etc..)
+ <img width="256" alt="image" src="https://user-images.githubusercontent.com/122240906/212551717-4dd1b5a6-e029-4c2c-aa53-95a7c4d78dc1.png">
+ - 4 condition in ideal case :
+   1. (V < 0) - Accumulation
+   2. (V > 0) - Depletion & Weak Inversion
+   3. (V > Vt) - Strong Inversion
+   4. Flat-band and Treshold Voltage
+
+ (1) Accumulation Mode (v<0)
+  - Accumulation occurs when voltage applied less than the flatband voltage.
+  - The negative charge on the gate attracts holes from the substrate to the oxide-semiconductor interface.
+  - Pile of majority carrier at the interface.
+  - Charge at the surface directly proportional to voltage
+<img width="224" alt="image" src="https://user-images.githubusercontent.com/122240906/212552359-49da06c0-d23e-4c0f-b561-d24501d73f9e.png">
+
+(2)  Depletion Mode ( V > 0)
+  -  More positive voltage than the flatband voltage is applied, a negative charge builds up in the semiconductor
+  -  The depletion layer width further increases with increasing gate voltage.
+ 
+ (3) Strong Inversion Mode (V > and equal Vt)
+  - at Vt, channel form at the surface of semiconductor due to inversion charges.
+  - Before Vt, charge come from negatively charged ionized acceptors.
+  - After Vt, more charge comes from electron rather that depleting the holes.
+  - More negetive charge required for semiconductor is comes from the mobile electron.
+  - this negetive charge emerged to the oxide-semiconductor interface, this charge is due to minority carriers, so called inversion layer.
+  
+ (4) Flatband
+  - Refers to fact that the energy band diagram of the semiconductor is flat, which implies that no charge exists in the semiconductor.
+  
+### C-V Characteristic of MOS Structure
+
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/122240906/212553498-ca33966c-27fa-4fa7-b9d0-f41e2a3b68eb.png">
+
+
+
+  
