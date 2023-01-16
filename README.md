@@ -198,6 +198,102 @@ What is VLSI?
 <summary>Assignment</summary>
 <br>
  
+
+1. List the five basic MOS fabrication processing steps and give the purpose or function
+of each step.
+ 
+ 
+   (a)	Photolithography – pattern setting
+ 
+   (b)	Implantation – add dopants to silicon
+ 
+   (c)	Deposition – add new layers(metals,oxides)
+ 
+   (d)	Etching – take away sections of layers
+ 
+   (e)	Oxidation – for gate oxides, need native oxides
+
+ 
+ 2. What is the difference between positive and negative photoresist and how is photoresist
+used?
+ 
+    Photoresist is a light-sensitive material used in several processes such as photolithography and photoengraving, to form a patterned coating on a surface.
+
+    Positive photoresist : light will weaken the resist, and create a hole. the portion of the photoresist that is exposed to light becomes soluble to the photoresist developer. The unexposed portion of the photoresist remains insoluble to the photoresist developer.
+
+    Negative photoresist : light will toughen the resist and create an etch resistant mask.  the portion of the photoresist that is exposed to light becomes insoluble to the photoresist developer. The unexposed portion of the photoresist is dissolved by the photoresist developer.
+
+3. Sketch the approximate cross sectional view of a NMOS transistor in a p-substrate.
+   Identify each region and identify the connections at the top surface of the integrated
+   circuit for the source, drain, gate and bulk/substrate.
+ 
+   ![image](https://user-images.githubusercontent.com/122240906/212733659-e12d7c1e-201b-4f8a-94a4-9b6ab883863a.png)
+
+4. Consider a mask that is opaque everywhere except for a transparent circle in the center.
+   Metal is deposited on a substrate followed by an application of negative photoresist
+   which is patterned with the mask described. After exposure, developing, and
+   subsequent etching, what will remain?
+ 
+   A coating where the mask placed.
+
+5. What is the difference between submicron, deep submicron and ultra-deep submicron
+process?
+ 
+  ![image](https://user-images.githubusercontent.com/122240906/212733689-259d4903-d3c6-4818-9156-7b9562de924b.png)
+
+6. What are the advantages of ultra-deep submicron process over deep submicron process.
+ 
+   -Small length size
+ 
+   - low cutoff current
+ 
+   - high cutoff frequency, more speed
+
+7. What is the difference between LOCOS and STI process?
+ 
+   The difference of STI process compared to LOCOS is that a shallow trench is etched into the silicon substrate. Therefore, STI is best for the device isolation process compared to LOCOS.
+
+8. Why for body connection a heavily doped n+ or p+ is used?
+
+9. What is use of silicide and poolside
+ 
+   Silicide and Polycide is used to minimize parasitic resistance, polycide( silicide on polysilicon), silicide(self aligned silicide) on source-drain
+ 
+   Siliside :
+   - To form electrical contacts between the semiconductor device and the supporting interconnect structure.
+   - Silicide (compound of silicon with metal) is formed on gates (polysilicon), sources and drains (Si wafer) as three MOS transistor electrodes in order to     reduce contact resistance to metal wiring layers.
+   - Silicide formation has the effect of lowering the resistance of each electrode, ability to withstand high temperature, oxidizing ambients and good contact to other materials.
+
+10. Which process steps used for control threshold voltage and punch-through effect?
+ 
+    Threshold voltage can be controlled by adjusting the oxide thickness and channel length during oxidation(gate oxide) steps. 
+
+11. Draw a top view, front view and 3D view of a CMOS inverter and annotate the length
+and width of both PMOS and NMOS transistor.
+ 
+    ![image](https://user-images.githubusercontent.com/122240906/212733727-701a70ab-c0e0-4fd0-945e-8fc42bf5937d.png)
+
+
+12. Why sidewall spacer are used in DSM technology?
+ 
+    To insulate the drain and source metal contacts from the gate of the transistor.
+
+13. What are the advantages of Deep N-well technology over n-well technology?
+ 
+    Reduce noise coupling between sensitive analog areas and more noisy digital regions in mixed-signal designs
+
+14. What is passivation layer?
+ 
+    Passivation layer or passivation layers are formed to protect the internal semiconductor devices after the completion of metallization. The passivation layers are typically formed with deposition of an oxide layer and a nitride layer.
+
+15. What is Bird’s beak in LOCOS process and what is the impact on the transistor
+performance?
+ 
+    Bird Beak is an active to active spacing.
+ 
+    Bird beak causing the surface area loss to this encroachment.
+
+ 
 <br>
 </details>
 
