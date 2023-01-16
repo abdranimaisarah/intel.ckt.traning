@@ -2,8 +2,11 @@
 
 ## Day 1(WW01.4'23)- Fundamental of VLSI Design and Overview or Sand to Silicon
 
-
-### Intro : Steps to create GITHUB REPO :
+ <details>
+<summary>Learning</summary>
+<br>
+ 
+ ### Intro : Steps to create GITHUB REPO :
 
 1) Register using intel email address
 2) Login, create repo and start write-up.
@@ -38,8 +41,21 @@ What is VLSI?
    - % Yield = (good die/ total die) X 100 %
  - Realibility (EOS,ESD,noise,crosstalk,etc)
  
+ <br>
+</details>
+
+<details>
+<summary>Assignment</summary>
+<br>
  
+<br>
+</details>
+
  ## Day 2(WW02.1'23)- Details of IC Manufacturing Process
+ 
+ <details>
+<summary>Learning</summary>
+<br>
  
  ### Analog IC Design Process
  1) Electrical Design(Schematic design) :
@@ -126,9 +142,22 @@ What is VLSI?
       
       (j) Metrology
       - Measurement process to give feedback to manufacturing process.
+<br>
+</details>
+
+<details>
+<summary>Assignment</summary>
+<br>
+ 
+<br>
+</details>
 
  ## Day 3(WW02.3'23)- CMOS Fabrication Process in DSM and UDSM Tech
-    
+ 
+<details>
+<summary>Learning</summary>
+ <br>
+ 
  ### Submicron CMOS Process
  
  Disadvantages :
@@ -162,8 +191,21 @@ What is VLSI?
 - DSM vs UDSM
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/122240906/212550430-ebb41b06-4d04-464f-b5be-ba36f13f702d.png">
 
+<br>
+</details>
+
+<details>
+<summary>Assignment</summary>
+<br>
+ 
+<br>
+</details>
 
  ## Day 4(WW02.5'23)- Metal Oxide Semiconductor(MOS) Structure
+ 
+<details>
+<summary>Learning</summary>
+<br>
  
   ### Metal Oxide Semiconductor(MOS) Device Structure
   
@@ -210,6 +252,15 @@ What is VLSI?
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/122240906/212553498-ca33966c-27fa-4fa7-b9d0-f41e2a3b68eb.png">
 
+ 
 
+<br>
+</details>
 
+<details>
+<summary>Assignment</summary>
+<br>
+ 
+<br>
+</details>
   
