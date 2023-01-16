@@ -47,6 +47,7 @@ What is VLSI?
 <details>
 <summary>Assignment</summary>
 <br>
+
  
 <br>
 </details>
@@ -149,6 +150,23 @@ What is VLSI?
 <summary>Assignment</summary>
 <br>
  
+ ## <img width="379" alt="image" src="https://user-images.githubusercontent.com/122240906/212737597-cb40cd6a-26eb-4525-b526-a4f8febef521.png">
+ 
+ ## <img width="284" alt="image" src="https://user-images.githubusercontent.com/122240906/212738470-6e9a5dc0-7ba3-467c-be5c-ec7864042ddf.png">
+ 
+ ## <img width="345" alt="image" src="https://user-images.githubusercontent.com/122240906/212739386-e25bff7c-97bc-467f-9e49-60d50b17111b.png">
+ 
+ ## <img width="296" alt="image" src="https://user-images.githubusercontent.com/122240906/212740097-1eec28ad-51c9-4eba-acd0-15f2776851d3.png">
+ 
+ ## <img width="283" alt="image" src="https://user-images.githubusercontent.com/122240906/212741235-53e5feb2-bf8e-4cee-96f7-ca28bb8c090c.png">
+ 
+ ## <img width="301" alt="image" src="https://user-images.githubusercontent.com/122240906/212742089-a2f2343a-2ef3-42a2-868e-fed0283b35e7.png">
+ 
+ ## <img width="271" alt="image" src="https://user-images.githubusercontent.com/122240906/212742643-05948b4c-d9e2-46db-82fe-2d06b29ac3b3.png">
+ 
+ ## <img width="319" alt="image" src="https://user-images.githubusercontent.com/122240906/212743020-ebab4270-dd57-44b7-887d-139c0c14534d.png">
+ 
+
 <br>
 </details>
 
