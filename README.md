@@ -375,6 +375,48 @@ performance?
 <summary>Assignment</summary>
 <br>
  
+1. The main differences between ideal and real MOS structure :
+
+2. The different modes of operation in a MOS junction : 
+
+   ![image](https://user-images.githubusercontent.com/122240906/217449365-2612ff97-2f39-4d17-9493-b83f6a6d6f97.png)
+
+ 
+3. The difference between weak inversion and strong inversion of a MOS junction :
+ 
+   ![image](https://user-images.githubusercontent.com/122240906/217450185-4704bb1b-8156-45ea-ae78-83fbc0b43888.png)
+
+4. What is Metal-to-semiconductor work function : 
+
+   ![image](https://user-images.githubusercontent.com/122240906/217453220-39cd78e0-fe18-462f-bea1-8fe001a0882f.png)
+ 
+ 5. For a heavily n-doped poly-silicon metal and a p-substrate semiconductor, what will be the metal-to-semiconductor work function? Positive or negative?
+   
+   Positive
+ 
+ 6. For a heavily p-doped poly-silicon metal and a n-substrate semiconductor, what will be the metal-to-semiconductor work function? Positive or negative?
+ 
+   Negative
+ 
+ 7. What is threshold voltage of a MOS junction? Express threshold voltage for a non-ideal MOS junction.
+ 
+   ![image](https://user-images.githubusercontent.com/122240906/217455996-2320d69a-0231-4a41-b024-37a1014f6813.png) 
+ 
+ 8. If the oxide (SiO2) increases for a MOS structure, the threshold voltage will increase or decrease?
+     
+    Threshold voltage of MOS increases as the thickness of oxide layer increases.
+ 
+ 9. Instead of a lightly doped p-substrate, if you use a heavily doped p-substrate in a MOS structure then what will be the change in threshold voltage? Will it   increase or decrease?
+
+     Threshold voltage will decreased with the increase of lightly doped.
+ 
+ 10. Describe, why MOS capacitance stay minimum at very high frequency and back to high value at low frequency.
+
+     The higher frequency has high resistivity, which inactive the minority carriers rapidly at the interface between oxide and semiconductor.
+     Majority carriers, minority carriers, and interface states contribute to the MOS or MOSFET capacitance. Majority carriers can follow very high frequencies, but      the minority carriers and a part of the interface states cannot follow high frequencies. This is why the contribution to capacitance from the interface states        will be absent at high frequencies and also from the minority carriers in the MOS capacitor.
+ 
+
+ 
 <br>
 </details>
   
