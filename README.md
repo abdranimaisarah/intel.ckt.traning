@@ -496,6 +496,90 @@ performance?
 <summary>Learning</summary>
 <br>
  
+ ### MOSFET Intrinsic Capacitance Intro
+
+ - Intrinsic capacitance is a transistor parasitic capacitance generated between the power and ground nets.
+ - The intrinsic capacitances of MOSFETs largely determine the switching speed and transient behavior of the devices.
+ - Proper representations of these non-linear capacitances being used to develop accurate simulation models and to improve understanding of the device behavior.
+ 
+ 
+  ### MOSFET Intrinsic Capacitance: Cutoff Region
+ 
+ <img width="254" alt="image" src="https://user-images.githubusercontent.com/122240906/217488980-33dc370e-8661-4c7c-a07f-0740ccb60022.png">
+
+ - no channel capacitance
+ - Only gate-to-bulk capacitance (High value)
+ 
+  ### MOSFET Intrinsic Capacitance: Saturation Region
+ 
+ <img width="259" alt="image" src="https://user-images.githubusercontent.com/122240906/217489208-304c42d4-6787-4b34-be2d-74a18865b575.png">
+
+ - Cgsch : Gate-to-channel at source side
+ - No drain side capacitance because of pinch-off
+ - <img width="76" alt="image" src="https://user-images.githubusercontent.com/122240906/217490598-1e0657dc-4792-491c-bb3d-084a36d381e8.png">
+ 
+  ### MOSFET Intrinsic Capacitance: Linear Region
+ 
+ <img width="252" alt="image" src="https://user-images.githubusercontent.com/122240906/217489095-d3b813d8-5afe-436d-8c6a-075e61016c31.png">
+
+ - Cgsch, Cgdch : Gate-to-channel at source side and gate-to-channel at drain side
+ - Voltage dependent
+ - <img width="101" alt="image" src="https://user-images.githubusercontent.com/122240906/217490348-58f0742c-1528-44d3-b45b-b5ad7ef26fb0.png">
+ 
+
+ ### Schematic Design, Circuit Simulation, Layout Design and Postlayout Simulation
+ 
+  #### Custom IC design process
+ 
+ <img width="343" alt="image" src="https://user-images.githubusercontent.com/122240906/217491353-b15875dc-4a9e-4af8-9eac-63755efa823d.png">
+
+ 
+  #### Custom IC Design Flow using Tools
+ 
+ (1) Schematic drawing phase
+     
+     Schematic creation --> Symbol Creation --> Create testbech for simulations.
+ 
+     <img width="346" alt="image" src="https://user-images.githubusercontent.com/122240906/217494744-3516bf73-1c64-441c-8b89-1cd284d694e6.png">
+ 
+
+ (2) Circuit Simulation Phase (Pre-layout)
+ 
+     Launch ADE-L --> Select simulation type(DC sweep/AC simulation/Transient) --> save desire waveforms to plot and add menasurement using calculators to plot for some predefined functions (rise time, fall time, delay, derivative, gain margin, phase margin etc) --> run simulations.
+ 
+ <img width="348" alt="image" src="https://user-images.githubusercontent.com/122240906/217494925-edb101a6-4e20-4cca-8ac0-f2df04f3c82a.png">
+
+ <img width="353" alt="image" src="https://user-images.githubusercontent.com/122240906/217495287-79b423e1-5a46-4b50-9f03-e97b0c634ae3.png">
+
+ (3) Layout Design and Verification Phase
+ 
+     Generate layout from schematic --> Place the components --> Routing between the components, supply and ground --> Verify the layout with the design rule (DRC) --> Verify the layout with schematic (LVS) --> Extract the parasitic and create a schematic view of the that extracted netlist.
+ 
+ <img width="350" alt="image" src="https://user-images.githubusercontent.com/122240906/217495514-ed1846ee-6b9e-4f2f-b5bb-3856b300f3a3.png">
+ 
+ (4) Post Layout Simulation Phase (Post-layout)
+ 
+     Create config view --> Do the simulation for both views and compare the result --> Follow same process as you have done pre-layout simulation. Only difference is instead of schematic netlist you will use parasitic extracted netlist.
+ 
+ 
+  <br>
+</details>
+
+<details>
+<summary>Assignment 6</summary>
+<br>
+ 
+ - to be updated
+
+<br>
+</details>
+     
+
+ 
+ 
+
+ 
+ 
 
  
  
