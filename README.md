@@ -415,8 +415,89 @@ performance?
      The higher frequency has high resistivity, which inactive the minority carriers rapidly at the interface between oxide and semiconductor.
      Majority carriers, minority carriers, and interface states contribute to the MOS or MOSFET capacitance. Majority carriers can follow very high frequencies, but      the minority carriers and a part of the interface states cannot follow high frequencies. This is why the contribution to capacitance from the interface states        will be absent at high frequencies and also from the minority carriers in the MOS capacitor.
  
-
- 
 <br>
 </details>
   
+## Day 5(WW03.2'23)- Metal Oxide Semiconductor Field Effects Transistor
+ 
+<details>
+<summary>Learning</summary>
+<br>
+ 
+- The metal–oxide–semiconductor field-effect transistor (MOSFET) is a type of field-effect transistor (FET), most commonly fabricated by the controlled oxidation of silicon.
+ 
+- MOSFETs are electronic devices used to switch or amplify voltages in circuits. It is a voltage controlled device and is constructed by three terminals.
+ 
+ ![image](https://user-images.githubusercontent.com/122240906/217462067-21b2e9b5-0cf7-4dc4-8a18-ed0a969659ab.png)
+
+ 
+  ### MOSFET Operations
+ 
+ For an enhancement-mode, n-channel MOSFET, the three operational modes are:
+   (1) Cutoff, subthreshold, and weak-inversion mode.
+   (2) Triode mode or linear region (also known as the ohmic mode.
+   (3) Saturation or active mode.
+ 
+   #### MOSFET Operations
+ 
+   ![image](https://user-images.githubusercontent.com/122240906/217466053-ac1a5bac-3076-49bc-9b1f-4c74d2e98c69.png)
+
+ Formula to calculate current :
+ 
+ (N-Channel) :
+ 
+ ![image](https://user-images.githubusercontent.com/122240906/217464076-6960f587-52d7-4b76-b4a6-81848f737267.png)
+ 
+ MOSFET Channel Profile :
+ 
+   ![image](https://user-images.githubusercontent.com/122240906/217464364-f6e5a73b-be19-4d1a-8069-1bc289222d03.png)
+ 
+  (P-Channel) :
+ 
+ ![image](https://user-images.githubusercontent.com/122240906/217466267-aa64ad39-2f83-43cd-99ac-2b792bf0bb44.png)
+ 
+ 
+  #### ID-VGS Characteristics
+
+   <img width="337" alt="image" src="https://user-images.githubusercontent.com/122240906/217467208-2d073135-f9e4-4e66-aca8-9026409221c6.png">
+
+   <img width="328" alt="image" src="https://user-images.githubusercontent.com/122240906/217468144-064fb8b6-4a40-482e-8074-dbbb41843e12.png">
+
+   #### ID-VGS Characteristics with body bias
+ 
+   <img width="334" alt="image" src="https://user-images.githubusercontent.com/122240906/217467383-1442070f-0511-462e-8f50-f8e59dbfd3e3.png">
+
+  - Body bias is the voltage at which the body terminal (4th terminal of mos) is connected. Body effect occurs when body or substrate of transistor is not biased at same level as that of source. 
+  - Forward body bias scales down the threshold voltage and reverse body bias increases the threshold voltage.
+ 
+ #### ID-VDS Characteristics: Channel Length Modulation
+
+ <img width="347" alt="image" src="https://user-images.githubusercontent.com/122240906/217468742-83c1778e-8fd6-4107-a199-d85ef98f952c.png">
+
+ 
+ - In a MOSFET operating in the saturation region, the channel length modulation effect causes a decrease in the output resistance.
+ - For a MOSFET operating in saturation region the channel length modulation effect causes a decrease in output resistance. The drain characteristics becomes less flat. If we consider channel modulation, the value of Rd will be always less than infinity. So, channel length modulation decreases the output resistance.
+ 
+ <br>
+</details>
+
+<details>
+<summary>Assignment 5</summary>
+<br>
+ 
+ - N/A
+
+<br>
+</details>
+  
+## Day 6(WW03.4'23)- MOSFET Intrinsic Capacitance
+ 
+<details>
+<summary>Learning</summary>
+<br>
+ 
+
+ 
+ 
+ 
+ 
