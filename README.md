@@ -540,9 +540,9 @@ performance?
      
      Schematic creation --> Symbol Creation --> Create testbech for simulations.
  
-     <img width="346" alt="image" src="https://user-images.githubusercontent.com/122240906/217494744-3516bf73-1c64-441c-8b89-1cd284d694e6.png">
- 
+ <img width="346" alt="image" src="https://user-images.githubusercontent.com/122240906/217496279-a1f6e9c9-0ae1-4a77-891a-62490feb4a2e.png">
 
+ 
  (2) Circuit Simulation Phase (Pre-layout)
  
      Launch ADE-L --> Select simulation type(DC sweep/AC simulation/Transient) --> save desire waveforms to plot and add menasurement using calculators to plot for some predefined functions (rise time, fall time, delay, derivative, gain margin, phase margin etc) --> run simulations.
